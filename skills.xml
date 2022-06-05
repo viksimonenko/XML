@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <skills>
+	<apiTesting>Postman</apiTesting>
+	<sniffingTools>Charles, Fiddler</sniffingTools>
+	<devTools>Google Chrome, FireFox</devTools>
+	<externalServer>Logs reading</externalServer>
+	<mobileTesting>Android Studio, ADB</mobileTesting>
+	<setProxyVpn>Android</setProxyVpn>
+	<commandLine>Terminal</commandLine>
+	<sqlBasics>Create, Delete, Drop, Insert Into, Select, From, Where, Join</sqlBasics>
+	<db>Postgres, Redis</db>
+	<loadTesting>Jmeter</loadTesting>
+  </skills>
